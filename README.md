@@ -1,0 +1,2 @@
+# workManage-WebEndPoint
+これは私が実験的に作成しているgasプロジェクトのwebフロントエンドです
