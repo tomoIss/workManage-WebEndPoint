@@ -207,7 +207,7 @@
             // 課題名や詳細が空の場合のケア
             const subject = task.教科 || "不明";
             const title = task.課題名 || "無題の課題";
-            const detail = task.詳細 ? `{${task.詳細}}` : "{詳細なし}";
+            const detail = task.詳細 ? `${task.詳細}` : "{詳細なし}";
             const deadline = formatDateTime(task.期限);
 
             card.innerHTML = `
