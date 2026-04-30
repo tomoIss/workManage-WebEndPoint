@@ -1,2 +1,3 @@
-# workManage-WebEndPoint
+# workManage-WebFront
 これは私が実験的に作成しているgasプロジェクトのwebフロントエンドです
+本番用
