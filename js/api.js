@@ -1,4 +1,4 @@
-const GAS_URL = "https://script.google.com/macros/s/AKfycbzPmSdad-DIkjoBhha1VfRWU7jDHpQOdVBFsvD5Wmqtwx_0Lc8qTgc3gtxpb1LiaPX2/exec";
+const GAS_URL = "https://script.google.com/macros/s/AKfycbwQ4cWW1efQ-2Q5q00Zbv47dgX_cZN9JG6-VL472o53q6NGbq7Og2H_VseIlv6dj-bwLw/exec";
 
 /**
  * クラス一覧を取得する
