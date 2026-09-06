@@ -1,8 +1,8 @@
 {
-  "name": "課題管理のジョ〜V1.5",
+  "name": "課題管理のジョ〜V1.6",
   "short_name": "課題管理",
   "start_url": "/workManage-WebFront/",
-  "scope": "./",
+  "scope": "/workManage-WebFront/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
