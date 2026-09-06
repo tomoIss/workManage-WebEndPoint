@@ -1,7 +1,7 @@
 {
   "name": "課題管理のジョ〜V1.5",
   "short_name": "課題管理",
-  "start_url": "./index.html",
+  "start_url": "https://tomoiss.github.io/workManage-WebFront/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
